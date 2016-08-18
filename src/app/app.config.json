@@ -1,0 +1,14 @@
+{
+	"appname": "test-bug",
+	"scope": "FullAccess",
+	"clientid": "7E592831-BCE9-479A-A20F-F9B47191C2BD",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
